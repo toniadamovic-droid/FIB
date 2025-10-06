@@ -1,0 +1,14 @@
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\obj\Debug\net8.0\nnnnnn.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\obj\Debug\net8.0\nnnnnn.AssemblyInfoInputs.cache
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\obj\Debug\net8.0\nnnnnn.AssemblyInfo.cs
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\obj\Debug\net8.0\nnnnnn.csproj.CoreCompileInputs.cache
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\bin\Debug\net8.0\nnnnnn.exe
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\bin\Debug\net8.0\nnnnnn.deps.json
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\bin\Debug\net8.0\nnnnnn.runtimeconfig.json
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\bin\Debug\net8.0\nnnnnn.dll
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\bin\Debug\net8.0\nnnnnn.pdb
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\obj\Debug\net8.0\nnnnnn.dll
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\obj\Debug\net8.0\refint\nnnnnn.dll
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\obj\Debug\net8.0\nnnnnn.pdb
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\obj\Debug\net8.0\nnnnnn.genruntimeconfig.cache
+C:\Users\Ucenik\source\repos\nnnnnn\nnnnnn\obj\Debug\net8.0\ref\nnnnnn.dll
